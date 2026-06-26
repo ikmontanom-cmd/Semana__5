@@ -25,6 +25,13 @@ restaurante_app/
 └── 📄 README.md
 ```
 
+### Explicación de la estructura
+
+- **modelos/**: Contiene las clases `Producto` y `Cliente`, que representan las entidades principales del sistema.
+- **servicios/**: Contiene la clase `Restaurante`, encargada de administrar las listas de productos y clientes mediante diferentes métodos.
+- **main.py**: Es el punto de inicio del programa. Aquí se crean los objetos, se agregan al restaurante y se muestra la información registrada en consola.
+- **README.md**: Contiene la descripción del proyecto, la estructura, los tipos de datos utilizados y una breve reflexión sobre el desarrollo de la aplicación.
+
 ## 📊 Tipos de Datos
 | Tipo    | Ejemplo                          |
 |---------|----------------------------------|
