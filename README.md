@@ -11,18 +11,22 @@ módulos para facilitar su comprensión y mantenimiento.
 
 ## 📁 Estructura del Proyecto
 
+## 📁 Estructura del Proyecto
+```
 restaurante_app/
 │
-├── modelos/
-│   ├── producto.py
-│   └── cliente.py
+├── 📂 modelos/
+│   ├── 🐍 producto.py
+│   └── 🐍 cliente.py
 │
-├── servicios/
-│   └── restaurante.py
+├── 📂 servicios/
+│   └── 🐍 restaurante.py
 │
-├── main.py
+├── 🐍 main.py
 │
-└── README.md
+└── 📄 README.md
+```
+
 ## 📊 Tipos de Datos
 | Tipo    | Ejemplo                          |
 |---------|----------------------------------|
