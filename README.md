@@ -10,19 +10,17 @@ la información mediante objetos y organizando el código en diferentes
 módulos para facilitar su comprensión y mantenimiento.
 
 ## 📁 Estructura del Proyecto
-
-## 📁 Estructura del Proyecto
 ```
 restaurante_app/
 │
 ├── 📂 modelos/
-│   ├── 🐍 producto.py
-│   └── 🐍 cliente.py
+│   ├──  producto.py
+│   └──  cliente.py
 │
 ├── 📂 servicios/
-│   └── 🐍 restaurante.py
+│   └──  restaurante.py
 │
-├── 🐍 main.py
+├──  main.py
 │
 └── 📄 README.md
 ```
