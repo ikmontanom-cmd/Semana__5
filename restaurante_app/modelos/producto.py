@@ -27,5 +27,5 @@ class Producto:
             f" Disponibilidad: {disponibilidad}"
         )
 
-    def __str__(self):
+    def __str__(self) -> str:
         return f"{self.nombre} - ${self.precio}: {self.categoria}"

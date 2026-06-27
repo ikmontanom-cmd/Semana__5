@@ -31,5 +31,5 @@ class Cliente:
     
 
 
-    def __str__(self):
+    def __str__(self) -> str:
         return f"Cliente: {self.nombre}, Correo: {self.correo_electronico}, Teléfono: {self.telefono}"
